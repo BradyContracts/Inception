@@ -1,0 +1,22 @@
+Date: Sun, 30 Mar 2025 14:20:16 GMT
+Content-Type: text/html; charset=utf-8
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'
+X-Proxy-Cache: MISS
+X-Github-Request-Id: 2C11:481BC:3F59F95:4530709:67E948AD
+Via: 1.1 varnish
+X-Served-By: cache-iad-kiad7000142-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1743344416.074779,VS0,VE1
+Vary: Accept-Encoding
+X-Fastly-Request-Id: cba273c158d86616d134ff083966d09891eb4092
+Cache-Control: max-age=14400
+Cf-Cache-Status: EXPIRED
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Cp1eVZSy4Cn6dlwbhnGVMswKyDIJA9d%2BgdWrIKUBXfgj1GM9X5AB8AaH%2FnXjNOWcZ0JvcPWLDH4NB3XnVCsTzMK1jWV9g%2BLjLI9zkuP42MBjND3tyR16nFW0TKM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 92883f285d943974-IAD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=1607&min_rtt=1486&rtt_var=644&sent=3&recv=5&lost=0&retrans=0&sent_bytes=2820&recv_bytes=839&delivery_rate=1921938&cwnd=251&unsent_bytes=0&cid=40c66484e7de0f3b&ts=38&x=0"
